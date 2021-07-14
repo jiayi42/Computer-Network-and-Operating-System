@@ -7,3 +7,5 @@ Optimized Mandelbrot Set with OpenMP and Message Passing Interface (MPI) by 17.9
 https://github.com/jiayi42/hybrid_mpi_openmp \
 Coursera Certificate: Parallel, Concurrent, and Distributed Programming in Java Specialization\
 https://github.com/jiayi42/PCDP_Java_Special
+Integrated React.js with Express, Node.js,.and MySQL to build Stray Animals Manager website.
+https://github.com/jiayi42/strays
