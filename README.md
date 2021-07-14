@@ -1,5 +1,5 @@
-# Computer-Network-and-Operating-System
-Computer Network and Operating System projects and some online courses mini projects
+# Web Developement, Network, and Operating System
+Web Developement, Network, and Operating System projects and some online courses mini projects
 
 Implemented a token bucket algorithm in a file transfer protocol proxy to achieve ideal transmission rates (25-125KB/s).\
 https://github.com/jiayi42/FTP-Rate-Controller \
